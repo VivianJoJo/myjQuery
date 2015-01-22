@@ -45,3 +45,29 @@
 		-webkit-font-smoothing: antialiased;
 		-moz-osx-font-smoothing: grayscale;
 	}
+
+	
+	.icon-music:before{
+		content: "\e605"
+	}
+	.dianying:before{
+		content: "\e606";
+	}
+	.icon-pacman:before{
+		content: "\e607";
+	}
+	.icon-feed:before{
+		content: "\e608";
+	}
+	.icon-file:before{
+		content: "\e609";
+	}
+	.icon-paste:before{
+		content: "\e60a";
+	}
+	.icon-folder:before{
+		content: "\e60b";
+	}
+	.icon-calculate:before{
+		content: "\e60c";
+	}
